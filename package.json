@@ -1,15 +1,15 @@
 {
-    "name": "Selvania-Launcher",
-    "preductname": "Selvania Launcher",
+    "name": "ShinobiChronicles-Launcher",
+    "preductname": "ShinobiChronicles Launcher",
     "version": "2.1.1",
-    "description": "Launcher Mincraft pour le serveur Selvania",
+    "description": "Launcher Mincraft pour le serveur ShinobiChronicles",
     "main": "src/app.js",
     "author": {
-        "name": "luuxis, Inc.",
+        "name": "Ayren, luuxis, Inc.",
         "email": "contact@luuxis.fr",
         "url": "https://github.com/luuxis"
     },
-    "url": "http://launcher.luuxis.fr",
+    "url": "https://lesboys.strator.gg",
     "scripts": {
         "start": "cross-env-shell NODE_ENV=dev electron .",
         "dev": "cross-env-shell DEV_TOOL=open nodemon --exec npm start",
@@ -39,6 +39,6 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/luuxis/Selvania-Launcher.git"
+        "url": "git+https://github.com/Ayren92/ShinobiChronicles-Launcher.git"
     }
 }
